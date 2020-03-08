@@ -11,3 +11,4 @@ to improve my skills.
 | [jumping\_on\_the\_clouds.py](https://github.com/piergiorgioladisa/DailyProblemSolving/blob/master/jumping\_on\_the\_clouds.py) | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)    |
 | [repeated\_string.py](https://github.com/piergiorgioladisa/DailyProblemSolving/blob/master/repeated\_string.py)                 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)                |
 | [sock\_merchant.py](https://github.com/piergiorgioladisa/DailyProblemSolving/blob/master/sock\_merchant.py)                     | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)                    |
+| [two_sum.py](https://github.com/piergiorgioladisa/DailyProblemSolving/blob/master/two_sum.py)                                   | [Two Sum](https://leetcode.com/problems/two-sum/)                                               |
