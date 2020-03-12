@@ -3,7 +3,7 @@ Search a target number inside a sorted array and return its index.
 If it's not inside, return -1
 """
 
-def search(self, nums: List[int], target: int) -> int:
+def search(nums: List[int], target: int) -> int:
         
         mid_index = len(nums) // 2
         
