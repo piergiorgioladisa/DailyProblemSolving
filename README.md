@@ -4,7 +4,7 @@ This repository collects solutions to different exercises solved daily ( more or
 to improve my skills.
 
 
-| *Source code*                                                                                                                   | *Source site*                                                                                   |
+| *Code*                                                                                                                   | *Source site*                                                                                   |
 |---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | [arrays\_left\_rotation.py](https://github.com/piergiorgioladisa/DailyProblemSolving/blob/master/arrays\_left\_rotation.py)     | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) |
 | [balanced\_brackets.py](https://github.com/piergiorgioladisa/DailyProblemSolving/blob/master/balanced\_brackets.py)     | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) |
