@@ -4,7 +4,7 @@ Compute and return the square root of x, where x is guaranteed to be a non-negat
 Since the return type is an integer, the decimal digits are truncated and only the integer part of the result is returned.
 """
 
-def mySqrt(self, x: int) -> int:
+def mySqrt(x: int) -> int:
         
         if x == 0:
             return 0
