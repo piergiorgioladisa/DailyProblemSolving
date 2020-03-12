@@ -5,7 +5,7 @@ number equals 1 (where it will stay), or it loops endlessly in a cycle which doe
 Those numbers for which this process ends in 1 are happy numbers.
 """
 
-def isHappy(self, n: int) -> bool:
+def isHappy( n: int) -> bool:
       
         tmp = str(n)
         counter = 0
@@ -16,4 +16,4 @@ def isHappy(self, n: int) -> bool:
         elif counter == 4:
             return False
         else:
-            return self.isHappy(counter)
+            return isHappy(counter)
