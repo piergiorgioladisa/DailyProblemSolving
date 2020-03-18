@@ -27,15 +27,13 @@ def checkMagazine(magazine, note):
                 note_dict[word] = True
             else:
                 note_dict[word] = False
+                print("No")
+                return
         else:
             print("No")
             return
-    if all(x==True for x in note_dict.values()):
-        print("Yes")
-        return
-    else:
-        print("No")
-        return
+    print("Yes")
+    return
         
         
 if __name__ == '__main__':
